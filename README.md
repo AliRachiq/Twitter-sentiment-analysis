@@ -28,23 +28,11 @@ This notebook explores sentiment analysis using the BERT architecture for classi
     3. **BERT Model:** Utilizing the powerful BERT model for sentiment classification.
     4. **Training and Evaluation:** Training the model and evaluating its performance on a test set.
 
-### Results:
+### Results: 
+![image](https://github.com/AliRachiq/Twitter-sentiment-analysis/assets/85627949/e262fb59-cfa6-4547-970e-3a703418a48d)
 
-- **LSTM Model Performance:**
-    - Precision: 0.74 (Class 0), 0.69 (Class 1)
-    - Recall: 0.67 (Class 0), 0.77 (Class 1)
-    - F1-score: 0.70 (Class 0), 0.73 (Class 1)
-    - Accuracy: 0.72
 
-- **BERT Model Performance:**
-    - Precision: 0.75 (Class 0), 0.77 (Class 1)
-    - Recall: 0.79 (Class 0), 0.73 (Class 1)
-    - F1-score: 0.77 (Class 0), 0.75 (Class 1)
-    - Accuracy: 0.76
 
 To run these notebooks, click on the "Open in Colab" badge provided with each section and follow the instructions within the notebook cells for execution.: 
-**BERT** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11sfKeJ_hFtpw1DnJi4YgYjsU9eOFmoL-?usp=sharing)
-**LSTM** : [Open In Colab](https://colab.research.google.com/drive/1V5a738HNZQjy120htn1p8qYoRse-OdOL?usp=sharing).
-
-
-![image](https://github.com/AliRachiq/Twitter-sentiment-analysis/assets/85627949/e262fb59-cfa6-4547-970e-3a703418a48d)
+--**BERT** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11sfKeJ_hFtpw1DnJi4YgYjsU9eOFmoL-?usp=sharing)
+--**LSTM** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V5a738HNZQjy120htn1p8qYoRse-OdOL?usp=sharing).
